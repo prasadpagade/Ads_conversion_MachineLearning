@@ -22,4 +22,4 @@ activity/time spent on site).
  improve conversion rate
 
 ## Solution
-Click here![http://rpubs.com/prasad_pagade/conversionrate]
+[Click here](http://rpubs.com/prasad_pagade/conversionrate)
